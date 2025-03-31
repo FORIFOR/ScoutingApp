@@ -36,7 +36,7 @@ FanScoutは、サッカーファンがスカウティングレポートの作成
 
 1. リポジトリをクローン
    ```bash
-   git clone https://github.com/YourUsername/ScoutingApp.git
+   git clone https://github.com/FORIFOR/ScoutingApp.git
    cd ScoutingApp
    ```
 
