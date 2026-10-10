@@ -1,0 +1,22 @@
+確認したパス: `code`。配下の登録ファイルは20件。
+
+- `code/ScoutingApp/Core/Authentication/AuthenticationService.swift`（一覧のみ）
+- `code/ScoutingApp/Core/Database/FirebaseManager.swift`（一覧のみ）
+- `code/ScoutingApp/Core/Database/SyncManager.swift`（一覧のみ）
+- `code/ScoutingApp/Core/Models/Models.swift`（一覧のみ）
+- `code/ScoutingApp/Core/Report/AnalyticsService.swift`（一覧のみ）
+- `code/ScoutingApp/Core/Report/ReportService.swift`（一覧のみ）
+- `code/ScoutingApp/Core/Report/RewardService.swift`（一覧のみ）
+- `code/ScoutingApp/Core/Schedule/ScheduleService.swift`（一覧のみ）
+- `code/ScoutingApp/Core/Security/SecurityManager.swift`（一覧のみ）
+- `code/ScoutingApp/Prototype/AppDelegate.swift`（内容確認済み）
+- `code/ScoutingApp/Prototype/PrototypeViews.swift`（内容確認済み）
+- `code/ScoutingApp/Prototype/SceneDelegate.swift`（一覧のみ）
+- `code/ScoutingApp/Tests/AuthenticationTests.swift`（一覧のみ）
+- `code/ScoutingApp/Tests/IntegrationTests.swift`（一覧のみ）
+- `code/ScoutingApp/Tests/PerformanceTests.swift`（一覧のみ）
+- `code/ScoutingApp/Tests/ReportServiceTests.swift`（一覧のみ）
+- `code/ScoutingApp/Tests/SecurityTests.swift`（一覧のみ）
+- `code/ScoutingApp/Tests/SyncManagerTests.swift`（一覧のみ）
+- `code/ScoutingApp/Tests/UITests.swift`（一覧のみ）
+- `code/ScoutingApp/Tests/UsabilityTests.swift`（一覧のみ）

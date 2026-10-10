@@ -1,0 +1,22 @@
+{
+  "repo": "FORIFOR/ScoutingApp",
+  "branch": "main",
+  "tree_sha": "30a35d7be7b7e433f790f0af559cf3b9c172e43b",
+  "tree_files": 39,
+  "read_files": [
+    {
+      "path": "README.md",
+      "sha": "8df1b6c984bd4a77fa49ccb10ce58d1b277e0ea7"
+    },
+    {
+      "path": "code/ScoutingApp/Prototype/PrototypeViews.swift",
+      "sha": "14b82ec83753afb75be250ed76a3370664af5eec"
+    },
+    {
+      "path": "code/ScoutingApp/Prototype/AppDelegate.swift",
+      "sha": "47aa93776f8d9bccdfc2625eb40591a9d8a48ba6"
+    }
+  ],
+  "not_read_count": 36,
+  "scope": "initial entry-point and direct-import analysis; not exhaustive semantic scan"
+}
